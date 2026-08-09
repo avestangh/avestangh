@@ -21,7 +21,7 @@ My research focuses on **water resources, hydrology, reservoir Performance, and 
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools and Technologies
 
 **Modeling and Analysis and Hydrological Tools**
 
@@ -62,7 +62,7 @@ Case study of the Rozieh town water supply network, focusing on hydraulic parame
 
 ---
 
-## 💻 Research & Projects
+## 💻 Research and Projects
 
 ### 🌊 Reservoir Systems and Drought Analysis
 
