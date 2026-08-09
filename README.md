@@ -1,2 +1,2 @@
 # Anahita-Ghobakhloo
-PhD Researcher in Water Resources Engineering and Climate Adaptation
+PhD student in Water Resources Engineering and Climate Adaptation
