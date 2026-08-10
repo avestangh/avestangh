@@ -12,12 +12,14 @@ My research focuses on **water resources, hydrology, reservoir Performance, and 
 ## 🔬 Research Interests
 
 * 💧 	Surface and Groundwater Hydrology
-* 🌊 Hydrology and Hydrologic Behavior of Rivers and Dams
-* 🏞️ Reservoir and Water-Storage Operations
+* 🌊 Reservoir Modeling and SRY Analysis
+* 🏞️ Climate Model Evaluation and Bias Correction
 * 🌱 Hydrogeology and Watershed Management
-* 🌦️ Climate Change Impacts on Water Systems
-* 📊 Drought Analysis and Risk Assessment
-* 🏗️ Scour Analysis in Hydraulic Structures
+* 🌦️ Evapotranspiration and Irrigation
+* 📊 Water Stress and Resource Management
+* 🏗️ Climate-Resilient Water Management
+* Hydroclimatic Variability and Drought
+* Climate Uncertainty and Risk Assessment
 
 ---
 
