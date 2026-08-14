@@ -19,7 +19,7 @@ Water availability/extremes
 
 ↓
 
-Reservoir & water-system behavior
+Reservoir and water-system behavior
 
 ↓
 
@@ -27,7 +27,7 @@ Decision-making/adaptation
 
 ---
 
-On one hand, I have a background in hydraulic/water-supply modeling, and on the other hand, I am entering forecast-informed reservoir management and climate adaptation.
+On the one hand, I have a background in hydraulic/water-supply modeling; on the other hand, I am entering forecast-informed reservoir management and climate adaptation.
 
 ## 🔬 Research Interests
 
