@@ -5,9 +5,29 @@
 **PhD student in Water Resources Management Engineering and Climate Adaptation**
 📍 Catania, Italy
 
-My research focuses on **water resources, hydrology, reservoir Performance, and climate change impacts on water systems**, with experience in hydrological assessment, drought analysis, water storage operations, and data-driven modeling.
+My research focuses on **water resources, hydrology, reservoir Performance, and climate change impacts on water systems**, with experience in hydrological assessment, drought analysis, water storage operations, and data-driven modeling. Researcher at the intersection of climate projections, hydrological modelling, and climate-resilient water resources management. Create a specific niche for yourself : 
+
+Climate projections
+
+↓
+
+Hydrological response
+
+↓
+
+Water availability/extremes
+
+↓
+
+Reservoir & water-system behavior
+
+↓
+
+Decision-making/adaptation
 
 ---
+
+On one hand, I have a background in hydraulic/water-supply modeling, and on the other hand, I am entering forecast-informed reservoir management and climate adaptation.
 
 ## 🔬 Research Interests
 
