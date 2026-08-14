@@ -127,9 +127,19 @@ East Azerbaijan University, Iran
 **Research Fellow (Master's degree) — University of Catania**
 2024 – 2025
 
-**Research and Project Developer — Hydrological System Dynamics**
-2023 – 2024
+---
 
+## A combination of skills that I can apply simultaneously:
+Climate data
+Hydrological models
+Statistical analysis
+Machine Learning
+Uncertainty analysis
+Optimization
+Reservoir operation
+Climate adaptation
+Decision making
+ی
 ---
 
 ## 📫 Connect With Me
