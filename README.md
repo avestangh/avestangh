@@ -31,15 +31,15 @@ On one hand, I have a background in hydraulic/water-supply modeling, and on the 
 
 ## 🔬 Research Interests
 
-* 💧 	Surface and Groundwater Hydrology
-* 🌊 Reservoir Modeling and SRY Analysis
-* 🏞️ Climate Model Evaluation and Bias Correction
-* 🌱 Hydrogeology and Watershed Management
-* 🌦️ Evapotranspiration and Irrigation
-* 📊 Water Stress and Resource Management
-* 🏗️ Climate-Resilient Water Management
-* Hydroclimatic Variability and Drought
-* Climate Uncertainty and Risk Assessment
+*  Climate Change Impacts on Water Resources
+*  Hydrological Modelling
+*  Climate Projections and Hydrological Extremes
+*  Water Resources Systems Modelling
+*  Reservoir Operation and Management
+*  Forecast-Informed Water Management
+*  Climate Change Adaptation and Water Resilience
+*  Machine Learning for Hydrology / Water Resources
+* Water Resources Optimization and Decision-Making
 
 ---
 
