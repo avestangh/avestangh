@@ -82,7 +82,6 @@ Case study of the Rozieh town water supply network, focusing on hydraulic parame
 
 🔗 [DOI](https://doi.org/10.5281/zenodo.21954938)
 
-https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Emagiran%2Ecom%2Fpaper%2F2718933%2F%3Flang%3Den&urlhash=dLw-&mt=k_AFAmIzNVBSJLDUx9JvFx_WtsmIrd1t_v4yg2PPz2a8khnXZkbKXBdNW2c9fXD6gsq0TGJc2SQ4HlWouHzJWBwLtQcN&isSdui=true
 ---
 
 ## 💻 Research and Projects
