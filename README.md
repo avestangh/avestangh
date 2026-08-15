@@ -145,7 +145,7 @@ Decision making
 
 🔗 [LinkedIn](https://www.linkedin.com/in/anahita-g-b02a61408)
 🔗 [ORCID](https://orcid.org/0009-0003-6420-095X)
-🔗 [ResearchGate](https://www.researchgate.net/)
+🔗 [ResearchGate](https://www.researchgate.net/profile/Anahita-Ghobakhloo?ev=hdr_xprf)
 
 ---
 
