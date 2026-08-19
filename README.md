@@ -128,16 +128,16 @@ East Azerbaijan University, Iran
 
 ---
 
-## A combination of skills that I can apply simultaneously:
-Climate data
-Hydrological models
-Statistical analysis
-Machine Learning
-Uncertainty analysis
-Optimization
-Reservoir operation
-Climate adaptation
-Decision making
+## A combination of skills that I can do simultaneously:
+* Climate data
+* Hydrological models
+* Statistical analysis
+* Machine Learning
+* Uncertainty analysis
+* Optimization
+* Reservoir operation
+* Climate adaptation
+* Decision-making
 ی
 ---
 
