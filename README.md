@@ -138,7 +138,7 @@ East Azerbaijan University, Iran
 * Reservoir operation
 * Climate adaptation
 * Decision-making
-ی
+
 ---
 
 ## 📫 Connect With Me
