@@ -1,6 +1,6 @@
 # avestangh
 
-# Hi, I'm Anahita Ghobakhloo 👋
+# Hi, I'm Anahita Ghobakhloo
 
 **PhD student in Water Resources Management Engineering and Climate Adaptation**
 📍 Catania, Italy
