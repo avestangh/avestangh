@@ -1,8 +1,7 @@
 # avestangh
 
 # Hi, I'm Anahita Ghobakhloo
-
-# Welcome in my personal github profile!
+ Welcome in my personal github profile!
 
 **PhD student in Water Resources Management Engineering and Climate Adaptation**
 Catania, Italy
