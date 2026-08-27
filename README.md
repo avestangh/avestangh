@@ -28,7 +28,7 @@ Decision-making/adaptation
 
 On the one hand, I have a background in hydraulic/water-supply modeling; on the other hand, I am entering forecast-informed reservoir management and climate adaptation.
 
-** I’m currently working on:
+**I’m currently working on:
 
 Modeling Impacts of Climate Change on Water Resources in the Mediterranean Area
 
