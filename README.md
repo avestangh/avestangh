@@ -1,5 +1,3 @@
-# avestangh
-
 # Hi, I'm Anahita Ghobakhloo
  Welcome in my personal github profile!
 
