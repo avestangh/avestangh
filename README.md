@@ -3,7 +3,7 @@
 # Hi, I'm Anahita Ghobakhloo
 
 **PhD student in Water Resources Management Engineering and Climate Adaptation**
-📍 Catania, Italy
+Catania, Italy
 
 My research focuses on **water resources, hydrology, reservoir Performance, and climate change impacts on water systems**, with experience in hydrological assessment, drought analysis, water storage operations, and data-driven modeling. Researcher at the intersection of climate projections, hydrological modelling, and climate-resilient water resources management. Create a specific Research Focus for Myself : 
 
@@ -29,7 +29,7 @@ Decision-making/adaptation
 
 On the one hand, I have a background in hydraulic/water-supply modeling; on the other hand, I am entering forecast-informed reservoir management and climate adaptation.
 
-## 🔬 Research Interests
+## Research Interests
 
 *  Climate Change Impacts on Water Resources
 *  Hydrological Modelling
@@ -43,7 +43,7 @@ On the one hand, I have a background in hydraulic/water-supply modeling; on the 
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 **Modeling and Analysis and Hydrological Tools**
 
@@ -64,7 +64,7 @@ On the one hand, I have a background in hydraulic/water-supply modeling; on the 
 
 ---
 
-## 📚 Publications
+## Publications
 
 ### Deriving Storage–Reliability–Yield Relationship for Reservoirs in Sicily, Italy
 
@@ -84,21 +84,21 @@ Case study of the Rozieh town water supply network, focusing on hydraulic parame
 
 ---
 
-## 💻 Research and Projects
+##  Research and Projects
 
-### 🌊 Reservoir Systems and Drought Analysis
+### Reservoir Systems and Drought Analysis
 
 Data-driven analysis of reservoir operations, water storage, drought conditions, and SRY relationships for Sicilian reservoirs.
 
 **Tools:** MATLAB · Excel · SAGA GIS
 
-### 🌍 Hydrological System Dynamics
+###  Hydrological System Dynamics
 
 System dynamics modeling of water supply, groundwater recharge, reservoir operations, and water allocation strategies.
 
 **Tools:** Vensim
 
-### 🌦️ Climate Change and Water Resources
+###  Climate Change and Water Resources
 
 Hydrological assessment, evapotranspiration, bias correction, climate model uncertainty, and water resource management under changing climate conditions.
 
@@ -106,7 +106,7 @@ Hydrological assessment, evapotranspiration, bias correction, climate model unce
 
 ---
 
-## 🎓 Education
+##  Education
 
 **PhD in Water Resources Engineering and Climate Adaptation**
 University of Catania, Italy
@@ -118,7 +118,7 @@ East Azerbaijan University, Iran
 
 ---
 
-## 📖 Research Experience
+##  Research Experience
 
 **PhD Researcher — University of Catania**
 2025 – Present
@@ -141,7 +141,7 @@ East Azerbaijan University, Iran
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/anahita-g-b02a61408)
 🔗 [ORCID](https://orcid.org/0009-0003-6420-095X)
@@ -149,4 +149,4 @@ East Azerbaijan University, Iran
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
