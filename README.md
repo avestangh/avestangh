@@ -4,7 +4,7 @@
 **PhD student in Water Resources Management Engineering and Climate Adaptation**
 Catania, Italy
 
-My research focuses on **water resources, hydrology, reservoir Performance, and climate change impacts on water systems**, with experience in hydrological assessment, drought analysis, water storage operations, and data-driven modeling. Researcher at the intersection of climate projections, hydrological modelling, and climate-resilient water resources management. Create a specific Research Focus for Myself : 
+My research focuses on **water resources, hydrology, reservoir Performance, Regional SRY Model and climate change impacts on water systems**, with experience in hydrological assessment, drought analysis, water storage operations, and data-driven modeling. Researcher at the intersection of climate projections, hydrological modelling, and climate-resilient water resources management. Create a specific Research Focus for Myself : 
 
 Climate projections
 
@@ -28,7 +28,7 @@ Decision-making/adaptation
 
 On the one hand, I have a background in hydraulic/water-supply modeling; on the other hand, I am entering forecast-informed reservoir management and climate adaptation.
 
-**I’m currently working on:** Modeling the Impacts of Climate Change on Water Resources in the Mediterranean Region
+**I’m currently working on:** Modeling the Impacts of Climate Change on Water Resources and Climate Change Impacts on Reservoir Storage–Reliability–Yield Relationships in Sicily, Italy in the Mediterranean Region 
 
 
 ## Research Interests
@@ -88,19 +88,19 @@ Case study of the Rozieh town water supply network, focusing on hydraulic parame
 
 ##  Research and Projects
 
-### Reservoir Systems and Drought Analysis
+### Reservoir Systems and regional SRY regression Model
 
 Data-driven analysis of reservoir operations, water storage, drought conditions, and SRY relationships for Sicilian reservoirs.
 
 **Tools:** MATLAB · Excel · SAGA GIS
 
-###  Hydrological System Dynamics
+###  Hydraulic and water allocation System Dynamics
 
 System dynamics modeling of water supply, groundwater recharge, reservoir operations, and water allocation strategies.
 
 **Tools:** Vensim
 
-###  Climate Change and Water Resources
+###  Climate Change and Water Resources management
 
 Hydrological assessment, evapotranspiration, bias correction, climate model uncertainty, and water resource management under changing climate conditions.
 
