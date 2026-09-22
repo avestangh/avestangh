@@ -4,7 +4,7 @@
 **PhD student in Water Resources Management Engineering and Climate Adaptation**
 Catania, Italy
 
-My research focuses on **water resources, hydrology, reservoir Performance, Regional SRY Model and climate change impacts on water systems**, with experience in hydrological assessment, drought analysis, water storage operations, and data-driven modeling. Researcher at the intersection of climate projections, hydrological modelling, and climate-resilient water resources management. Create a specific Research Focus for Myself : 
+My research focuses on **water resources, hydrology, reservoir Performance, Regional SRY Model and climate change impacts on water systems**, with experience in hydrological assessment, drought, water storage operations, and data-driven modeling. Researcher at the intersection of climate projections, hydrological modelling, and climate-resilient water resources management. Create a specific Research Focus for Myself : 
 
 Climate projections
 
@@ -90,11 +90,11 @@ Case study of the Rozieh town water supply network, focusing on hydraulic parame
 
 ### Reservoir Systems and regional SRY regression Model
 
-Data-driven analysis of reservoir operations, water storage, drought conditions, and SRY relationships for Sicilian reservoirs.
+Data-driven analysis of reservoir operations, water storage, and water management systems, with estimation of required storage capacity, yield, and reliability using the Standard Operating Policy (SOP) and regional Storage–Reliability–Yield (SRY) regression models.
 
 **Tools:** MATLAB · Excel · SAGA GIS
 
-###  Hydraulic and water allocation System Dynamics
+###  Hydraulic and Water Allocation System Dynamics
 
 System dynamics modeling of water supply, groundwater recharge, reservoir operations, and water allocation strategies.
 
