@@ -28,7 +28,7 @@ Decision-making/adaptation
 
 On the one hand, I have a background in hydraulic/water-supply modeling; on the other hand, I am entering forecast-informed reservoir management and climate adaptation.
 
-**I’m currently working on:** Modeling the Impacts of Climate Change on Water Resources and Climate Change Impacts on Reservoir Storage–Reliability–Yield Relationships in Sicily, Italy in the Mediterranean Region 
+**I’m currently working on:** Climate Change Impact Assessment: Evapotranspiration (ET₀), Bias Correction, and Reservoir Storage–Reliability–Yield Relationships in Sicily, Italy
 
 
 ## Research Interests
