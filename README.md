@@ -59,10 +59,9 @@ On the one hand, I have a background in hydraulic/water-supply modeling; on the 
 
 **Research Tools**
 
+* Mendeley
 * Notion
 * Zotero
-* Mendeley
-* Dropbox
 
 ---
 
