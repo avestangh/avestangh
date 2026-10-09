@@ -131,6 +131,7 @@ East Azerbaijan University, Iran
 
 ## A combination of skills that I can do simultaneously:
 * Climate data
+* climate mitigation
 * Hydrological models
 * Statistical analysis
 * Machine Learning
